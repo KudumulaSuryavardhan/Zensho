@@ -1,0 +1,3 @@
+Flask       → Python web framework
+Werkzeug    → Password hashing and secure file handling
+gunicorn    → Runs Flask on the deployment server
